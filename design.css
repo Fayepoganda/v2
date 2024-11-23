@@ -1,0 +1,27 @@
+.ForHeader{
+    text-align: center;
+    font-size: 50px;;
+}
+
+.ForGif{
+    height: 400px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+button{
+    position: absolute;
+    top: 600px;
+    left: 200px;
+    width: 200px;
+    height: 50px;
+}
+.contt{
+    position: absolute;
+    top: 0px;    
+    left: 380px;
+}
+.noB{
+    width: 200px;
+    height: 50px;
+}
